@@ -1,2 +1,1 @@
-# -Cryptocurrency-Volatility-Prediction
-Cryptocurrency Volatility Prediction
+# Cryptocurrency Volatility Prediction - ML Project
